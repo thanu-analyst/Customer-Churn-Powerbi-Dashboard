@@ -1,4 +1,4 @@
-# ## Project
+ ## Project
 Customer churn dashboard on Telco dataset (7,043 customers), built in Power BI.
 
 ## Tools
